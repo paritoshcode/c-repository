@@ -1,0 +1,14 @@
+these are the notes for c language
+
+
+
+
+i have studied till now how to start the code with #include in this i have learned about
+#include <stdio.h> and <stdbool.h>
+
+next up i have learned about variables:
+1 int(we use %d)
+2 float(we use %f)
+3 bool(we use %d)
+4 char(with and without a array)(%c and %s)
+5 double(%lf)
